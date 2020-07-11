@@ -8,7 +8,7 @@
             "CLAIMTYPE": "HCFA",
             "MEDICAREID": "1093853731",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "OLSEN ORTHOPEDICS MWC OFFICE",
+            "PROVIDERNAME": "OLSEN ORTHOPEDICS MWC OFFICE"
         },
         {
             "id": "64836689",
@@ -19,7 +19,7 @@
             "CLAIMTYPE": "HCA",
             "MEDICAREID": "1093853732",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "OLSEN OFFICE",
+            "PROVIDERNAME": "OLSEN OFFICE"
         },
         {
             "id": "64836690",
@@ -30,7 +30,7 @@
             "CLAIMTYPE": "HCFA123",
             "MEDICAREID": "1093853733",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "ORTHOPEDICS MWC OFFICE",
+            "PROVIDERNAME": "ORTHOPEDICS MWC OFFICE"
         },
         {
             "id": "64836690",
@@ -41,7 +41,7 @@
             "CLAIMTYPE": "HCFA123",
             "MEDICAREID": "1093853733",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "ORTHOPEDICS MWC OFFICE",
+            "PROVIDERNAME": "ORTHOPEDICS MWC OFFICE"
         },
         {
             "id": "64836691",
@@ -52,7 +52,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836692",
@@ -63,7 +63,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836693",
@@ -74,7 +74,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836694",
@@ -85,7 +85,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836695",
@@ -96,8 +96,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
-        },
+            "PROVIDERNAME": "MWC OFFICE"        },
         {
             "id": "64836696",
             "NETWORKNAME": "Healthcare123",
@@ -107,7 +106,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836697",
@@ -118,7 +117,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836698",
@@ -129,7 +128,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836699",
@@ -140,7 +139,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836700",
@@ -151,7 +150,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836701",
@@ -162,7 +161,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836702",
@@ -173,7 +172,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836703",
@@ -184,7 +183,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836704",
@@ -195,7 +194,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836705",
@@ -206,7 +205,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836706",
@@ -217,7 +216,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836707",
@@ -228,7 +227,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836708",
@@ -239,7 +238,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         },
         {
             "id": "64836709",
@@ -250,7 +249,7 @@
             "CLAIMTYPE": "HFA125",
             "MEDICAREID": "10938537335",
             "PROVIDERID": "412130145",
-            "PROVIDERNAME": "MWC OFFICE",
+            "PROVIDERNAME": "MWC OFFICE"
         }        
 
     ]
