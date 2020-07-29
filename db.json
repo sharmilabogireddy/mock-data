@@ -2,7 +2,7 @@
     "SIMPLEQUERY": [{
             "id": "65600001",
             "NETWORKNAME": "Healthcare Highways",
-            "CLAIMID": "65600001",
+            "CLAIMID": "UF1000000001",
             "CLIENTCLAIMID": "64836688",
             "CLAIMNMBER": "000100096142",
             "CLAIMTYPE": "HCFA",
@@ -11,9 +11,9 @@
             "PROVIDERNAME": "OLSEN ORTHOPEDICS MWC OFFICE"
         },
         {
-            "id": "65600002",
+            "id": "UF1000000002",
             "NETWORKNAME": "Healthcare",
-            "CLAIMID": "65600002",
+            "CLAIMID": "UF1000000002",
             "CLIENTCLAIMID": "64836688",
             "CLAIMNMBER": "000100096143",
             "CLAIMTYPE": "HCA",
@@ -24,7 +24,7 @@
         {
             "id": "65600003",
             "NETWORKNAME": "Healthcare123",
-            "CLAIMID": "65600003",
+            "CLAIMID": "UF1000000003",
             "CLIENTCLAIMID": "64836688",
             "CLAIMNMBER": "000100096144",
             "CLAIMTYPE": "HCFA123",
