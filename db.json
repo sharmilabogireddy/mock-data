@@ -1,6 +1,6 @@
 {
     "SIMPLEQUERY": [{
-            "id": "65600001",
+            "id": "UF1000000001",
             "NETWORKNAME": "Healthcare Highways",
             "CLAIMID": "UF1000000001",
             "CLIENTCLAIMID": "64836688",
@@ -22,7 +22,7 @@
             "PROVIDERNAME": "OLSEN OFFICE"
         },
         {
-            "id": "65600003",
+            "id": "UF1000000003",
             "NETWORKNAME": "Healthcare123",
             "CLAIMID": "UF1000000003",
             "CLIENTCLAIMID": "64836688",
